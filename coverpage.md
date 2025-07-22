@@ -1,4 +1,4 @@
-# Mutual Non-Disclosure Agreement v1
+# Mutual Non-Disclosure Agreement
 
 ## USING THIS MUTUAL NON-DISCLOSURE AGREEMENT
 
