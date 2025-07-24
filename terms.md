@@ -1,1 +1,1 @@
-# Standard Terms v1
+# Standard Terms v2
